@@ -2,4 +2,4 @@
 
 45種類のパズルを最適化で解く
 
-Python
+Lnguage: Python
